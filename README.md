@@ -10,7 +10,7 @@
 ### Outputs:
 
 - For Numerical Outputs:
-https://github.com/28Ritu/Apoptotic-Cell-Death/edit/master/Numericals.md
+https://github.com/28Ritu/Apoptotic-Cell-Death/blob/master/Numericals.md
 
 - For Histograms:
 https://github.com/28Ritu/Apoptotic-Cell-Death/blob/master/Histograms.md
