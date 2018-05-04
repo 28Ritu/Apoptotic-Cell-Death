@@ -10,5 +10,7 @@
 ### Outputs:
 
 - For Numerical Outputs:
+https://github.com/28Ritu/Apoptotic-Cell-Death/edit/master/Numericals.md
+
 - For Histograms:
 - For Binomial Distribution plots:
