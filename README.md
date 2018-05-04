@@ -16,3 +16,4 @@ https://github.com/28Ritu/Apoptotic-Cell-Death/edit/master/Numericals.md
 https://github.com/28Ritu/Apoptotic-Cell-Death/blob/master/Histograms.md
 
 - For Binomial Distribution plots:
+https://github.com/28Ritu/Apoptotic-Cell-Death/blob/master/Binomial.md
